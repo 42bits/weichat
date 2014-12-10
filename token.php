@@ -1,4 +1,5 @@
 
+<?php
 //客服文本回复
     function nokefutext($openid,$content=''){
             $token = $this->GetToken();
