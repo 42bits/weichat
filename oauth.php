@@ -1,5 +1,8 @@
-<?php
 
+$this->me = $this->oauth->getyz();
+
+<?php
+/*用时修改*/
 class Oauth extends CI_Model{
 
 	function __construct(){
